@@ -1,2 +1,2 @@
 # Californian-houses-project
-Predict median house values in Californian districts, given a number of features from these districts.
+Machine Learning Project on house median values Prediction Model in Californian districts,  using Python.
